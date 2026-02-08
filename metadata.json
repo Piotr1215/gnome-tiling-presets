@@ -1,0 +1,7 @@
+{
+  "name": "Tile Helper",
+  "description": "DBus interface for pixel-perfect window tiling",
+  "uuid": "tile-helper@gnome-tiling-presets",
+  "shell-version": ["46"],
+  "url": "https://github.com/Piotr1215/gnome-tiling-presets"
+}
